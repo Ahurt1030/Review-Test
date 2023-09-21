@@ -1,10 +1,10 @@
 <style>
-.div {
+.death {
     color: red;
     background-color: transparent;
     text-decoration: none;
   }  
-.div:hover {
+.death:hover {
     color: skyblue;
     background-color: transparent;
     text-decoration: underline;
@@ -35,6 +35,13 @@
 .body {
     background-color:mediumaquamarine;
 }
-
-
+.center {
+    text-align: center;
+    color: red;
+    font-size: 40px;
+    font-family: fantasy;
+}
+.middle {
+    align-self: center;
+}
   </style>
