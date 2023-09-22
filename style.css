@@ -1,12 +1,10 @@
-<style>
+
 .death {
     color: red;
-    background-color: transparent;
     text-decoration: none;
   }  
 .death:hover {
     color: skyblue;
-    background-color: transparent;
     text-decoration: underline;
   }
    .M1 {
@@ -44,4 +42,3 @@
 .middle {
     align-self: center;
 }
-  </style>
