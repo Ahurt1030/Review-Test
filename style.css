@@ -1,11 +1,10 @@
 
-.death {
+header {
     color: red;
-    text-decoration: none;
   }  
-.death:hover {
+header:hover {
     color: skyblue;
-    text-decoration: underline;
+    
   }
    .M1 {
       background-color: blue;
